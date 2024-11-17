@@ -10,9 +10,7 @@
 Sangeun3/Sangeun3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-![Uploading image.png…]()
-
+ 
 <a href="https://github.com/devxb/gitanimals">
   <img
     src="https://render.gitanimals.org/lines/hbin12212?pet-id=642212583922701813"

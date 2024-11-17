@@ -11,10 +11,12 @@ Sangeun3/Sangeun3 is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
  
+
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/hbin12212?pet-id=642212583922701813"
+    src="https://render.gitanimals.org/lines/Sangeun3"
     width="600"
     height="120"
   />
 </a>
+  
